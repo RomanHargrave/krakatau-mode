@@ -1,0 +1,9 @@
+* krakatau-mode
+
+A mode for editing [[https://github.com/Storyyeller/Krakatau][Krakatau]] assembler code.
+Krakatau is a disassembler and (re)assembler for JVM bytecode.
+
+This currently only provides (probably very inneficient) syntax highlighting, but I would like to add autoindent at some point.
+
+#+CAPTION: krakatau-mode in action
+[[./screenshot.png]]
